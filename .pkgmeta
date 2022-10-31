@@ -1,0 +1,5 @@
+package-as: sctd
+
+move-folders:
+  sctd/sctd: sctd
+  sctd/sctd_options: sctd_options
