@@ -1,0 +1,13 @@
+------------------------------------------------------------------------
+r25 | frozn45 | 2022-11-05 16:49:37 +0000 (Sat, 05 Nov 2022) | 1 line
+Changed paths:
+   M /trunk/sctd/sctd-Classic.toc
+   M /trunk/sctd/sctd-WOTLKC.toc
+   M /trunk/sctd/sctd.toc
+   M /trunk/sctd_options/sctd_options-Classic.toc
+   M /trunk/sctd_options/sctd_options-WOTLKC.toc
+   M /trunk/sctd_options/sctd_options.toc
+
+- bumped toc to 10.0.0
+------------------------------------------------------------------------
+

@@ -2,9 +2,9 @@
 ## Title: SCT - Damage
 ## Notes: Adds your damage to Scrolling Combat Text
 ## Notes-ruRU: Выводит ваш урон в Scrolling Combat Text
-## Author: Grayhoof
-## Author-ruRU: Grayhoof (Перевод: StingerSoft)
-## Version: 9.2_1
+## Author: Grayhoof, Picpok, Frozn45
+## Author-ruRU: Grayhoof (Перевод: StingerSoft), Picpok, Frozn45
+## Version: 10.0_1
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
 ## Dependencies: sct

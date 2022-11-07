@@ -1,4 +1,4 @@
-﻿--Everything From here on would need to be translated and put
+--Everything From here on would need to be translated and put
 --into if statements for each specific language.
 
 --***********

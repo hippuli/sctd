@@ -1,4 +1,4 @@
-﻿-- SCT localization information
+-- SCT localization information
 -- Korean Locale
 -- Initial translation by SayClub, Next96
 -- Translation by SayClub, Next96
