@@ -1,10 +1,10 @@
-## Interface: 30400
+## Interface: 30401
 ## Title: SCT - Damage Options
 ## Title-ruRU: SCT - Damage [Настройки]
 ## Notes:  Options menu for SCT - Damage (LoadOnDemand)
 ## Notes-ruRU:  Меню настроек для SCT - Damage (LoadOnDemand)
 ## Author: Grayhoof, Picpok, Frozn45
-## Version: 10.0_1
+## Version: 10.0_2
 ## DefaultState: Enabled
 ## LoadOnDemand: 1
 ## Dependencies: sct, sct_options, sctd
